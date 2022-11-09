@@ -1,0 +1,201 @@
+﻿id,gender,lat,lng,city,st,zip,dob,occ,marital,edu
+0,F,35.9279,-114.9721,Las Vegas,NV,89150,1999-10-04,Sales,Married,Some College
+1,M,35.5212,-105.9818,Santa Fe,NM,87592,1989-06-14,Sales,Single,HS Diploma
+2,M,47.6964,-117.4399,Spokane,WA,99205,1992-01-08,Management,Single,Bach Degree
+3,M,34.2628,-119.8486,Santa Barbara,CA,93150,1976-04-28,Community and Social Service,Married,HS Diploma
+4,M,38.8247,-104.562,Colorado Springs,CO,80935,1973-01-31,"Arts, Design, Entertainment, Sports, and Media",Single,Some College
+5,F,40.6324,-74.1172,Staten Island,NY,10310,1952-10-22,Sales,Single,Grad Degree
+6,F,21.2987,-157.6985,Honolulu,HI,96825,1992-10-06,Business and Financial Operations,Single,HS Diploma
+7,F,33.6607,-117.8264,Irvine,CA,92612,1964-04-02,Business and Financial Operations,Married,Bach Degree
+8,M,32.7233,-97.269,Fort Worth,TX,76105,1988-03-07,Management,Single,Some College
+9,F,35.2017,-89.9715,Memphis,TN,38143,1990-09-14,Construction and Extraction,Married,Some College
+10,M,38.354,-81.6394,Charleston,WV,25389,1972-02-05,Architecture and Engineering,Married,HS Diploma
+11,M,40.9166,-74.174,Paterson,NJ,07505,1979-01-29,Construction and Extraction,Single,Less than HS Diploma
+12,F,34.2651,-77.867,Wilmington,NC,28405,1968-04-04,Management,Married,HS Diploma
+13,M,42.3319,-71.254,Newton,MA,02162,1978-05-05,Construction and Extraction,Married,HS Diploma
+14,M,45.5483,-122.8276,Portland,OR,97229,1973-10-24,Healthcare Practitioners and Technical,Married,Some College
+15,M,41.0977,-85.1189,Fort Wayne,IN,46805,1985-04-19,Management,Married,Grad Degree
+16,M,44.9054,-93.2361,Minneapolis,MN,55417,1986-10-25,Construction and Extraction,Single,HS Diploma
+17,M,38.9513,-76.8958,Hyattsville,MD,20784,1994-08-09,Protective Service,Single,Bach Degree
+18,F,42.0869,-76.8397,Elmira,NY,14905,1974-01-03,Management,Married,HS Diploma
+19,F,32.7673,-96.7776,Dallas,TX,75342,1992-07-26,Construction and Extraction,Single,HS Diploma
+20,M,39.0351,-94.5467,Kansas City,MO,64130,1985-12-25,Business and Financial Operations,Single,Some College
+21,F,37.5242,-77.4932,Richmond,VA,23285,1953-03-07,Healthcare Practitioners and Technical,Married,Less than HS Diploma
+22,F,33.723,-84.4702,Atlanta,GA,30311,1976-10-30,"Arts, Design, Entertainment, Sports, and Media",Single,Bach Degree
+23,F,40.6681,-111.9083,Salt Lake City,UT,84189,1964-01-30,"Arts, Design, Entertainment, Sports, and Media",Single,Bach Degree
+24,F,39.144,-77.2076,Silver Spring,MD,20918,1980-01-20,Construction and Extraction,Married,Grad Degree
+25,F,37.3378,-121.8908,San Jose,CA,95108,1974-10-12,Business and Financial Operations,Married,Some College
+26,F,33.7678,-118.1994,Long Beach,CA,90831,1992-04-28,Entrepreneurial,Single,Some College
+27,F,32.4401,-88.6783,Meridian,MS,39305,1980-04-05,Management,Single,Less than HS Diploma
+28,F,33.7217,-84.3339,Atlanta,GA,30316,1966-11-19,Construction and Extraction,Married,Bach Degree
+29,M,45.0632,-93.3811,Minneapolis,MN,55428,1958-11-08,Business and Financial Operations,Married,Less than HS Diploma
+30,F,44.9378,-93.2545,Minneapolis,MN,55407,1982-05-14,Business and Financial Operations,Married,Some College
+31,M,40.0418,-76.3012,Lancaster,PA,17622,1980-12-23,Healthcare Practitioners and Technical,Single,Less than HS Diploma
+32,F,35.4242,-97.6547,Oklahoma City,OK,73179,1972-06-01,Construction and Extraction,Single,Some College
+33,F,47.6536,-117.4317,Spokane,WA,99210,1975-12-07,Protective Service,Single,HS Diploma
+34,F,33.7866,-118.2987,Los Angeles,CA,90087,1965-07-03,Business and Financial Operations,Single,Bach Degree
+35,M,33.8444,-84.474,Atlanta,GA,30375,1979-04-19,Healthcare Practitioners and Technical,Married,HS Diploma
+36,M,40.8063,-96.6545,Lincoln,NE,68510,1976-03-02,Protective Service,Single,HS Diploma
+37,F,36.8686,-76.3552,Portsmouth,VA,23705,1970-05-06,Construction and Extraction,Single,Some College
+38,F,32.6076,-93.7526,Shreveport,LA,71130,1992-06-09,"Life, Physical, and Social Science",Single,HS Diploma
+39,M,27.7898,-82.7243,Saint Petersburg,FL,33710,1993-08-05,"Education, Training, and Library",Single,HS Diploma
+40,F,39.7395,-84.229,Dayton,OH,45408,1999-08-17,Entrepreneurial,Single,HS Diploma
+41,M,27.0228,-82.1108,Port Charlotte,FL,33954,1980-09-24,Legal,Married,Some College
+42,F,32.7714,-97.2915,Fort Worth,TX,76129,1952-04-20,Entrepreneurial,Single,Grad Degree
+43,M,40.8265,-73.9383,New York City,NY,10039,1991-07-02,Protective Service,Married,Some College
+44,M,35.6004,-82.4918,Asheville,NC,28805,1984-10-22,Business and Financial Operations,Married,HS Diploma
+45,F,25.5584,-80.4582,Miami,FL,33283,1985-07-20,Business and Financial Operations,Married,Some College
+46,M,37.7786,-122.4892,San Francisco,CA,94121,1992-09-22,Architecture and Engineering,Single,Less than HS Diploma
+47,F,40.6514,-73.8708,Flushing,NY,11388,1964-09-04,"Education, Training, and Library",Single,Some College
+48,M,29.7575,-95.3668,Houston,TX,77276,1989-10-24,Computer and Mathematical,Married,HS Diploma
+49,F,35.3471,-120.4553,San Luis Obispo,CA,93407,1982-01-11,Healthcare Practitioners and Technical,Married,Some College
+50,M,40.6681,-111.9083,Salt Lake City,UT,84110,1953-01-19,Sales,Married,Some College
+51,F,29.834,-95.4342,Houston,TX,77293,1993-01-02,Construction and Extraction,Single,HS Diploma
+52,M,27.0228,-82.1108,Port Charlotte,FL,33954,1972-07-26,Protective Service,Married,HS Diploma
+53,M,40.4344,-80.0248,Pittsburgh,PA,15255,1986-10-06,Sales,Married,Grad Degree
+54,M,36.7377,-119.7843,Fresno,CA,93721,1997-04-18,Construction and Extraction,Single,HS Diploma
+55,M,35.421,-97.5616,Oklahoma City,OK,73119,1967-12-15,"Arts, Design, Entertainment, Sports, and Media",Married,Less than HS Diploma
+56,M,26.0143,-81.5856,Naples,FL,34114,1980-03-29,Business and Financial Operations,Married,Bach Degree
+57,F,33.8106,-118.3507,Torrance,CA,90505,1995-04-26,Management,Married,Grad Degree
+58,M,37.0206,-76.3377,Hampton,VA,23668,1997-05-04,Community and Social Service,Single,Bach Degree
+59,F,33.8913,-84.0746,Atlanta,GA,30356,1966-06-29,"Life, Physical, and Social Science",Single,Grad Degree
+60,F,41.8119,-87.6873,Chicago,IL,60681,1956-10-09,Protective Service,Married,Bach Degree
+61,M,33.7629,-84.4226,Atlanta,GA,31165,1980-04-21,Architecture and Engineering,Single,Bach Degree
+62,F,41.8119,-87.6873,Chicago,IL,60663,1998-09-20,Other,Single,HS Diploma
+63,M,41.2955,-96.1008,Omaha,NE,68164,1965-02-01,"Life, Physical, and Social Science",Unknown,Grad Degree
+64,F,37.2581,-93.3437,Springfield,MO,65805,1991-09-18,Legal,Married,HS Diploma
+65,F,47.0662,-122.1132,Tacoma,WA,98481,1976-07-30,Business and Financial Operations,Single,Grad Degree
+66,F,37.0318,-76.3199,Hampton,VA,23663,1982-12-12,Management,Single,HS Diploma
+67,M,26.3462,-80.0844,Boca Raton,FL,33432,1998-11-23,Entrepreneurial,Single,HS Diploma
+68,M,37.2602,-121.7709,San Jose,CA,95138,1970-03-10,Computer and Mathematical,Married,HS Diploma
+69,M,38.3774,-121.4444,Sacramento,CA,94207,1975-01-28,Business and Financial Operations,Married,Less than HS Diploma
+70,M,45.6644,-122.5212,Vancouver,WA,98682,1987-12-27,"Arts, Design, Entertainment, Sports, and Media",Single,HS Diploma
+71,M,41.2722,-75.8801,Wilkes Barre,PA,18763,1983-10-30,Entrepreneurial,Single,HS Diploma
+72,F,36.0807,-80.0244,High Point,NC,27264,1983-01-02,"Arts, Design, Entertainment, Sports, and Media",Single,HS Diploma
+73,M,43.3233,-111.7822,Idaho Falls,ID,83405,1994-08-31,Protective Service,Married,Bach Degree
+74,M,38.8976,-77.027,Washington,DC,20530,1965-09-15,Sales,Married,Bach Degree
+75,M,31.6948,-106.3,El Paso,TX,79994,1982-11-14,Entrepreneurial,Married,Grad Degree
+76,M,41.8119,-87.6873,Chicago,IL,60663,1972-10-05,Healthcare Practitioners and Technical,Single,HS Diploma
+77,F,35.216,-102.0714,Amarillo,TX,79159,1982-05-30,Healthcare Practitioners and Technical,Single,HS Diploma
+78,M,27.1675,-82.381,Sarasota,FL,34276,1998-11-30,Entrepreneurial,Unknown,Some College
+79,M,36.2383,-95.9931,Tulsa,OK,74126,1971-01-22,Business and Financial Operations,Single,HS Diploma
+80,F,41.8119,-87.6873,Chicago,IL,60674,1981-09-14,Construction and Extraction,Married,HS Diploma
+81,M,36.2235,-115.2655,Las Vegas,NV,89125,1964-10-12,"Education, Training, and Library",Single,HS Diploma
+82,M,39.8726,-86.2768,Indianapolis,IN,46278,1987-03-02,Management,Married,Bach Degree
+83,M,40.251,-74.7627,Trenton,NJ,08638,1967-09-08,Business and Financial Operations,Single,HS Diploma
+84,M,33.8444,-84.474,Atlanta,GA,30386,1982-05-28,"Arts, Design, Entertainment, Sports, and Media",Single,HS Diploma
+85,M,40.8085,-73.9198,Bronx,NY,10454,1983-08-31,Business and Financial Operations,Married,HS Diploma
+86,F,40.7536,-73.8226,Flushing,NY,11355,1974-01-25,Entrepreneurial,Married,Some College
+87,M,40.7259,-111.9394,Salt Lake City,UT,84199,1975-08-04,Business and Financial Operations,Single,HS Diploma
+88,F,40.6934,-75.4712,Allentown,PA,18105,1967-06-27,Healthcare Practitioners and Technical,Single,Grad Degree
+89,F,30.6589,-88.178,Mobile,AL,36628,2000-03-11,Healthcare Practitioners and Technical,Unknown,Some College
+90,M,26.6104,-80.1683,Lake Worth,FL,33467,1984-07-22,Protective Service,Married,HS Diploma
+91,M,40.6681,-111.9083,Salt Lake City,UT,84125,1981-09-09,Community and Social Service,Single,Less than HS Diploma
+92,M,36.8686,-76.3552,Portsmouth,VA,23705,1974-04-25,Business and Financial Operations,Single,Some College
+93,F,38.8981,-77.0401,Washington,DC,20456,1943-11-09,Community and Social Service,Married,HS Diploma
+94,F,42.9521,-71.6539,Manchester,NH,03105,1966-12-31,Entrepreneurial,Married,Bach Degree
+95,F,35.26,-80.8042,Charlotte,NC,28225,1983-06-06,"Arts, Design, Entertainment, Sports, and Media",Single,Some College
+96,M,38.8808,-77.113,Arlington,VA,22212,1990-05-26,Computer and Mathematical,Single,Bach Degree
+97,M,38.1286,-104.5523,Pueblo,CO,81015,1963-12-15,Entrepreneurial,Married,Bach Degree
+98,M,33.9413,-118.0356,Whittier,CA,90605,1956-01-26,"Arts, Design, Entertainment, Sports, and Media",Married,HS Diploma
+99,M,40.2023,-85.4082,Muncie,IN,47306,1992-12-02,Protective Service,Married,Grad Degree
+100,M,29.7629,-95.3629,Houston,TX,77250,1960-03-15,Sales,Single,Bach Degree
+101,M,42.37,-71.1773,Watertown,MA,02472,1991-10-18,"Education, Training, and Library",Married,Less than HS Diploma
+102,F,42.5032,-96.3829,Sioux City,IA,51105,1989-05-01,Protective Service,Married,HS Diploma
+103,M,29.834,-95.4342,Houston,TX,77255,1965-06-05,Management,Married,Bach Degree
+104,M,41.0704,-80.6931,Youngstown,OH,44511,1995-08-19,"Arts, Design, Entertainment, Sports, and Media",Single,Less than HS Diploma
+105,M,43.0389,-87.9024,Milwaukee,WI,53277,1953-06-06,Protective Service,Married,Some College
+106,M,33.6062,-117.8931,Newport Beach,CA,92662,1954-12-30,Architecture and Engineering,Single,Bach Degree
+107,M,40.0903,-75.041,Philadelphia,PA,19115,1984-04-27,Construction and Extraction,Single,Grad Degree
+108,F,32.6796,-97.3336,Fort Worth,TX,76115,1978-01-02,Healthcare Practitioners and Technical,Married,HS Diploma
+109,M,40.6914,-73.8061,Jamaica,NY,11480,1970-06-28,Architecture and Engineering,Married,Some College
+110,F,30.6521,-96.341,College Station,TX,77844,1963-08-29,Computer and Mathematical,Married,Bach Degree
+111,M,26.9668,-81.9545,Punta Gorda,FL,33982,1991-06-30,Legal,Single,HS Diploma
+112,M,34.84,-115.9671,San Bernardino,CA,92424,1956-03-14,Protective Service,Single,Less than HS Diploma
+113,M,36.5799,-82.5733,Kingsport,TN,37665,1965-07-18,"Education, Training, and Library",Married,Bach Degree
+114,F,40.8469,-73.7874,Bronx,NY,10464,1976-01-03,Management,Married,HS Diploma
+115,M,41.3087,-72.9271,New Haven,CT,06510,1981-10-21,"Education, Training, and Library",Single,Bach Degree
+116,M,39.7038,-86.3029,Indianapolis,IN,46231,1993-06-05,"Life, Physical, and Social Science",Married,Bach Degree
+117,F,42.7161,-87.8233,Racine,WI,53405,1987-11-20,Construction and Extraction,Married,Grad Degree
+118,F,38.4134,-82.2774,Huntington,WV,25711,1987-12-17,"Education, Training, and Library",Single,HS Diploma
+119,F,33.7866,-118.2987,Pasadena,CA,91125,1975-07-01,Management,Single,Less than HS Diploma
+120,M,40.6412,-74.0133,Brooklyn,NY,11220,1974-01-31,Legal,Married,Bach Degree
+121,F,40.7918,-74.2452,Newark,NJ,07188,1996-11-19,Construction and Extraction,Married,HS Diploma
+122,F,37.1959,-76.5248,Newport News,VA,23612,1986-06-18,"Arts, Design, Entertainment, Sports, and Media",Married,Grad Degree
+123,F,38.8606,-94.4636,Kansas City,MO,64149,1975-01-14,Entrepreneurial,Single,Grad Degree
+124,F,41.5487,-93.5827,Des Moines,IA,50320,1975-12-18,"Education, Training, and Library",Single,HS Diploma
+125,F,44.2595,-72.585,Montpelier,VT,05609,1985-11-10,Sales,Married,Bach Degree
+126,M,42.0794,-91.5992,Cedar Rapids,IA,52410,1956-02-09,Construction and Extraction,Married,Bach Degree
+127,M,39.47,-77.3921,Frederick,MD,21705,1959-01-11,Business and Financial Operations,Single,Grad Degree
+128,M,40.4001,-86.8602,Lafayette,IN,47905,1968-01-12,Computer and Mathematical,Single,HS Diploma
+129,F,29.8941,-95.6481,Houston,TX,77095,2000-10-09,Community and Social Service,Married,Bach Degree
+130,F,27.709,-80.5726,Vero Beach,FL,32964,1960-01-22,Business and Financial Operations,Single,HS Diploma
+131,M,37.5242,-77.4932,Richmond,VA,23285,1976-12-07,Computer and Mathematical,Unknown,Bach Degree
+132,M,33.7866,-118.2987,Los Angeles,CA,90081,1944-06-19,Legal,Married,Grad Degree
+133,M,33.5446,-86.9292,Birmingham,AL,35285,1979-09-20,Protective Service,Married,HS Diploma
+134,M,40.0018,-75.1179,Philadelphia,PA,19196,1967-05-08,Architecture and Engineering,Single,Bach Degree
+135,F,38.8874,-77.0047,Washington,DC,20557,1978-09-07,Protective Service,Married,HS Diploma
+136,M,31.6948,-106.3,El Paso,TX,79955,1982-12-27,Healthcare Practitioners and Technical,Married,Some College
+137,M,31.6948,-106.3,El Paso,TX,88563,1970-08-29,Architecture and Engineering,Single,Grad Degree
+138,M,38.1286,-104.5523,Pueblo,CO,81015,1993-05-05,Business and Financial Operations,Unknown,Less than HS Diploma
+139,F,40.0185,-76.2976,Lancaster,PA,17605,1990-04-25,"Arts, Design, Entertainment, Sports, and Media",Single,HS Diploma
+140,M,39.2627,-94.697,Kansas City,MO,64153,1999-10-20,"Education, Training, and Library",Single,Some College
+141,F,27.8918,-82.7248,Saint Petersburg,FL,33731,1997-12-16,"Life, Physical, and Social Science",Single,HS Diploma
+142,M,40.7442,-89.7184,Peoria,IL,61656,1994-01-26,Management,Single,HS Diploma
+143,M,37.625,-77.4959,Richmond,VA,23228,1953-09-19,Management,Single,HS Diploma
+144,F,28.072,-81.9609,Lakeland,FL,33805,1962-06-26,Construction and Extraction,Married,Bach Degree
+145,M,38.8933,-77.0146,Washington,DC,20046,1994-03-03,Computer and Mathematical,Married,Bach Degree
+146,F,28.5559,-81.3535,Orlando,FL,32803,1953-10-26,Sales,Married,Some College
+147,F,44.9034,-93.374,Minneapolis,MN,55436,1952-07-12,"Arts, Design, Entertainment, Sports, and Media",Single,HS Diploma
+148,F,39.47,-77.3921,Frederick,MD,21705,1996-07-28,Management,Married,HS Diploma
+149,F,35.1316,-80.8577,Charlotte,NC,28210,1973-07-05,"Education, Training, and Library",Single,Some College
+150,M,42.1827,-80.0649,Erie,PA,16522,1980-05-12,"Education, Training, and Library",Married,Some College
+151,F,33.7661,-117.9738,Garden Grove,CA,92844,1989-04-18,Construction and Extraction,Married,Some College
+152,F,29.8159,-95.523,Houston,TX,77080,1983-01-25,Entrepreneurial,Married,Bach Degree
+153,M,35.2017,-89.9715,Memphis,TN,38161,1979-11-26,Healthcare Practitioners and Technical,Single,Bach Degree
+154,F,41.0957,-73.4285,Norwalk,CT,06854,1964-02-24,Construction and Extraction,Single,Grad Degree
+155,F,37.3811,-122.3348,Redwood City,CA,94064,1998-11-09,Entrepreneurial,Single,HS Diploma
+156,M,35.9279,-114.9721,Las Vegas,NV,89160,1957-04-30,Construction and Extraction,Married,Grad Degree
+157,M,32.7976,-79.9493,Charleston,SC,29403,1994-03-31,Sales,Married,Some College
+158,M,35.0443,-106.6729,Albuquerque,NM,87195,1979-06-17,Sales,Married,Some College
+159,F,44.4601,-88.0074,Green Bay,WI,54305,1996-02-12,Business and Financial Operations,Single,Some College
+160,M,37.3352,-121.8938,San Jose,CA,95173,1969-03-17,Computer and Mathematical,Single,HS Diploma
+161,M,42.7198,-73.8207,Albany,NY,12205,1959-03-15,Healthcare Practitioners and Technical,Single,HS Diploma
+162,F,42.2399,-83.1508,Detroit,MI,48295,1988-02-02,Business and Financial Operations,Single,Some College
+163,F,30.033,-89.8826,New Orleans,LA,70154,1982-01-21,Business and Financial Operations,Married,Bach Degree
+164,F,29.4375,-98.4616,San Antonio,TX,78285,1964-07-09,"Arts, Design, Entertainment, Sports, and Media",Single,Bach Degree
+165,M,37.3352,-121.8938,San Jose,CA,95173,1984-05-23,Construction and Extraction,Single,Bach Degree
+166,M,45.5289,-94.5933,Saint Cloud,MN,56372,1985-08-20,"Education, Training, and Library",Married,Some College
+167,M,34.1669,-118.1551,Pasadena,CA,91103,1986-09-01,Legal,Single,Some College
+168,M,25.7341,-80.4068,Miami,FL,33175,1981-12-27,Management,Single,HS Diploma
+169,M,38.189,-85.6768,Louisville,KY,40287,1982-12-25,Construction and Extraction,Married,Less than HS Diploma
+170,F,29.834,-95.4342,Houston,TX,77255,1979-12-14,Architecture and Engineering,Married,Some College
+171,F,31.6948,-106.3,El Paso,TX,79989,1987-06-03,Sales,Single,HS Diploma
+172,M,26.5354,-80.1124,Boynton Beach,FL,33436,1996-07-31,Entrepreneurial,Single,Bach Degree
+173,M,41.0888,-73.5435,Stamford,CT,06905,1980-04-15,Entrepreneurial,Single,Less than HS Diploma
+174,F,29.2243,-94.9637,Galveston,TX,77554,1992-08-06,Construction and Extraction,Married,Some College
+175,M,38.2352,-104.66,Pueblo,CO,81005,1971-07-13,Legal,Single,Less than HS Diploma
+176,F,29.834,-95.4342,Houston,TX,77271,1971-01-02,Legal,Married,Bach Degree
+177,M,40.7845,-96.6888,Lincoln,NE,68583,1958-03-18,Construction and Extraction,Married,Grad Degree
+178,F,38.8933,-77.0146,Washington,DC,20380,1996-07-13,Business and Financial Operations,Single,Bach Degree
+179,F,42.4011,-96.372,Sioux City,IA,51110,1979-06-22,Computer and Mathematical,Single,HS Diploma
+180,M,41.3089,-73.3637,Danbury,CT,06816,1974-10-18,Legal,Married,Bach Degree
+181,F,38.596,-121.3978,Sacramento,CA,95865,1963-07-12,Business and Financial Operations,Single,Bach Degree
+182,M,39.5387,-119.8225,Reno,NV,89550,1983-03-02,Computer and Mathematical,Single,Less than HS Diploma
+183,F,42.2492,-71.8108,Worcester,MA,01610,1978-11-04,Legal,Single,Bach Degree
+184,M,32.6796,-97.3336,Fort Worth,TX,76115,1984-05-20,"Arts, Design, Entertainment, Sports, and Media",Married,Bach Degree
+185,F,36.2235,-115.2655,Las Vegas,NV,89125,1975-04-10,Protective Service,Married,Some College
+186,M,29.4375,-98.4616,San Antonio,TX,78278,1983-01-15,"Arts, Design, Entertainment, Sports, and Media",Married,Some College
+187,M,37.6566,-121.0191,Modesto,CA,95397,1971-12-27,Community and Social Service,Single,HS Diploma
+188,M,43.012,-85.6309,Grand Rapids,MI,49505,1980-10-16,Healthcare Practitioners and Technical,Married,Bach Degree
+189,M,45.0632,-93.3811,Minneapolis,MN,55428,1979-03-02,Computer and Mathematical,Married,Some College
+190,M,40.177,-111.536,Provo,UT,84605,1964-10-14,Construction and Extraction,Married,Less than HS Diploma
+191,M,38.6531,-90.2435,Saint Louis,MO,63150,1979-11-28,Entrepreneurial,Single,Bach Degree
+192,M,41.6782,-83.4972,Toledo,OH,43656,1998-05-29,Sales,Single,Some College
+193,F,27.8918,-82.7248,Saint Petersburg,FL,33742,1977-04-30,Construction and Extraction,Single,Grad Degree
+194,F,35.7977,-78.6253,Raleigh,NC,27690,1984-02-05,Computer and Mathematical,Married,HS Diploma
+195,M,47.6964,-117.4399,Spokane,WA,99205,1974-03-11,Computer and Mathematical,Unknown,HS Diploma
+196,M,33.413,-82.1337,Augusta,GA,30905,1979-11-25,Sales,Single,HS Diploma
+197,M,30.4501,-97.4865,Austin,TX,78715,1990-12-12,"Education, Training, and Library",Married,Less than HS Diploma
+198,F,36.7464,-119.6397,Fresno,CA,93762,1979-12-25,Protective Service,Married,Bach Degree
+199,F,40.0028,-83.0164,Columbus,OH,43210,1970-01-06,Business and Financial Operations,Single,Bach Degree
